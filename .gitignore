@@ -3,6 +3,8 @@
 .DS_Store
 
 ### Node ###
+
+/vendor
 # Logs
 logs
 *.log
